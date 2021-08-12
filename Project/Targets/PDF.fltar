@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.ScreenOnly]"
+  MasterToc="/Project/TOCs/TOC.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Page Layout.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  PatchHeadingLevels="false"
+  InjectEmptyPages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Variables>
+    <Variable
+      Name="General/CityStateZip">Bangalore, India, 560034</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="Indian Food" />
+</CatapultTarget>

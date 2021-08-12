@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/butterchicken.png" />
+    <Link
+      Url="Content/Resources/Images/specialoccasion.png" />
+    <Link
+      Url="https://www.simplyrecipes.com/recipes/chicken_tikka_masala/" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_ingredients.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="https://www.simplyrecipes.com/recipes/how_to_make_rice_without_a_recipe/" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_marination.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_cookthechicken.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_startmakingthesauce.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_startmakingthesauce_2.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_saucewiththenuts.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_finishthedish_2.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/butterchicken.png" />
+    <Link
+      Url="Content/Resources/Images/specialoccasion.png" />
+    <Link
+      Url="https://www.simplyrecipes.com/recipes/chicken_tikka_masala/" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_ingredients.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="https://www.simplyrecipes.com/recipes/how_to_make_rice_without_a_recipe/" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_marination.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_cookthechicken.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_startmakingthesauce.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_startmakingthesauce_2.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_saucewiththenuts.png" />
+    <Link
+      Url="Content/Resources/Images/butterchicken_finishthedish_2.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

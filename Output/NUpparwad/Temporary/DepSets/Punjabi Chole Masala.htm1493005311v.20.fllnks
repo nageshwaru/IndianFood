@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_chickpeasamla.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_chickpeas_pressurecooker.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_ingredients.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_extrabrownedroastedspices.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_roastedspices.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_cookedchickpeas.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_powderedspices.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_greenchilli.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_mix.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_addwater.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_readytoserve.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_chickpeasamla.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_chickpeas_pressurecooker.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_ingredients.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_extrabrownedroastedspices.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_roastedspices.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_cookedchickpeas.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_powderedspices.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_greenchilli.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_mix.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_addwater.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala.png" />
+    <Link
+      Url="Content/Resources/Images/chanamasala_readytoserve.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

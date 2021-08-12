@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title">
+        <Frame Flow="header" Height="0.8020833in" Right="620px" X="-93px" Y="-0.96875in" ColumnCount="1" Width="1.010417in" Bottom="880px" BorderLeftStyle="solid" BorderLeftWidth="0px" BorderRightStyle="solid" BorderRightWidth="0px" BorderTopStyle="solid" BorderTopWidth="0px" BorderBottomStyle="solid" BorderBottomWidth="0px" BorderTopLeftRadius="0px" BorderTopRightRadius="0px" BorderBottomRightRadius="0px" BorderBottomLeftRadius="0px" BackgroundRepeat="stretch" BackgroundImage="../Images/indian food new logo.png" BackgroundPositionX="0" BackgroundPositionY="0" BackgroundType="Solid" Anchors="" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" BorderLeftColor="" BorderRightColor="" BorderTopColor="" BorderBottomColor="">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="font-weight: bold;"> </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.6354167in" Right="-96px" Bottom="-85px" X="-96px" Y="9.25in" Width="8.5in" BackgroundColor="#c0c0c0" BackgroundColorAlt="#808080" BackgroundImage="none" Anchors="" BackgroundType="Solid" TextAlign="center" VerticalAlign="middle">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;"> <MadCap:variable xhtml:name="System.PageNumber" /> </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.479167in" Height="8.8125in" X="2px" Y="10px" Right="0px" Bottom="8px" BackgroundRepeat="stretch" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" BorderLeftStyle="solid" BorderLeftWidth="0px" BorderRightStyle="solid" BorderRightWidth="0px" BorderTopStyle="solid" BorderTopWidth="0px" BorderBottomStyle="solid" BorderBottomWidth="0px" BorderTopLeftRadius="0px" BorderTopRightRadius="0px" BorderBottomRightRadius="0px" BorderBottomLeftRadius="0px" Anchors="" BorderLeftColor="" BorderRightColor="" BorderTopColor="" BorderBottomColor="" BackgroundType="Solid">
+        </Frame>
+        <Frame X="-95px" Y="-88px" Width="815px" Height="75px" Flow="decoration0" Right="-96px" Bottom="877px" Anchors="" BorderBottomStyle="dashed" BorderBottomWidth="3px" BorderBottomColor="#ff8c00" VerticalAlign="middle" TextAlign="right">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="Heading.Level1" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <div class="home-footer">
+            <table style="width: 100%;">
+                <col />
+                <col style="width: 80px;" />
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="footer">nageshwar.upparwad@chrsolutions.com</p>
+                            <p class="footer">+91 9110687831</p>
+                            <p>N.A. Chambers - 1 3rd Floor, 3J, 3rd Cross, 7th C Main Rd, 3rd Block,</p>
+                            <p>Bengaluru, Karnataka 560034</p>
+                            <p class="footer-sub">&#160;</p>
+                        </td>
+                        <td style="text-align: right;">
+                            <img src="../Images/Indian Food Logo.png" style="width: 253px;height: 165px;" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

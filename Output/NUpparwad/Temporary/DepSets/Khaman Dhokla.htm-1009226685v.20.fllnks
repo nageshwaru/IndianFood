@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/khamandhokla.png" />
+    <Link
+      Url="https://www.vegrecipesofindia.com/dhokla-recipe/" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_fruitsalt.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_bakingsoda.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_flour.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_addwater.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_addrava.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_batter.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_stireno.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_forthybatter.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_steampan.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_tempering.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_invertthepan.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_greasedkhaman.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_cutthekhaman.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_mustardseeds.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_curryleaves.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_frysesame.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_laststep.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_gournishing.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_serve.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/khamandhokla.png" />
+    <Link
+      Url="https://www.vegrecipesofindia.com/dhokla-recipe/" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_fruitsalt.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_bakingsoda.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_flour.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_addwater.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_addrava.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_batter.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_stireno.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_forthybatter.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_steampan.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_tempering.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_invertthepan.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_greasedkhaman.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_cutthekhaman.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_mustardseeds.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_curryleaves.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_frysesame.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_laststep.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_gournishing.png" />
+    <Link
+      Url="Content/Resources/Images/khamandhokla_serve.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

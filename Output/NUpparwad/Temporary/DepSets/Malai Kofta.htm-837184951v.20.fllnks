@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://www.cookwithmanali.com/restaurant-style-garlic-naan/" />
+    <Link
+      Url="Content/Resources/Images/malaikofta.png" />
+    <Link
+      Url="https://www.cookwithmanali.com/dal-makhani/" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_cornstarch.png" />
+    <Link
+      Url="https://www.cookwithmanali.com/butter-naan/" />
+    <Link
+      Url="https://www.cookwithmanali.com/instant-pot-jeera-rice/" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_gravymethod.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_gravy,ethod_2.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_gravymethod_3.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_koftamethod.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_koftamethod_2.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.cookwithmanali.com/restaurant-style-garlic-naan/" />
+    <Link
+      Url="Content/Resources/Images/malaikofta.png" />
+    <Link
+      Url="https://www.cookwithmanali.com/dal-makhani/" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_cornstarch.png" />
+    <Link
+      Url="https://www.cookwithmanali.com/butter-naan/" />
+    <Link
+      Url="https://www.cookwithmanali.com/instant-pot-jeera-rice/" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_gravymethod.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_gravy,ethod_2.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_gravymethod_3.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_koftamethod.png" />
+    <Link
+      Url="Content/Resources/Images/malaikofta_koftamethod_2.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

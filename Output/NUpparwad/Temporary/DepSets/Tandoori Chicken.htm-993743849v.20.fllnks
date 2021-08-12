@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/tandoorichicken.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_storageandfreezing.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_marinade.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_marinade_2.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_marinade_3.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_bakeinoven.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_gasstove.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_airfryer.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_instatntpot.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_instantpot_2.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichuicken_instantpot_3.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/tandoorichicken.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_storageandfreezing.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_marinade.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_marinade_2.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_marinade_3.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_bakeinoven.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_gasstove.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_airfryer.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_instatntpot.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichicken_instantpot_2.png" />
+    <Link
+      Url="Content/Resources/Images/tandoorichuicken_instantpot_3.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

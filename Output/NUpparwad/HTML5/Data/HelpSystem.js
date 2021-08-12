@@ -1,0 +1,8 @@
+var xmlHelpSystemData = "";
+xmlHelpSystemData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlHelpSystemData += '<WebHelpSystem DefaultUrl=\"Content/Home.htm\" Toc=\"Data/Tocs/TOC.js\" Index=\"Data/Index.js\" Concepts=\"Data/Concepts.js\" SearchDatabase=\"Data/Search.js\" Synonyms=\"Data/Synonyms.xml\" SearchUrl=\"Content/Search.htm\" PathToScriptsFolder=\"Resources/Scripts/\" SkinName=\"NewSkin1\" SkinID=\"NewSkin1\" Multilingual=\"false\" Skins=\"NewSkin1\" BuildTime=\"7/13/2021 4:54:41 PM\" BuildVersion=\"17.0.7807.15177\" TargetType=\"WebHelp2\" SkinTemplateFolder=\"Skin/\" InPreviewMode=\"false\" TopNavTocPath=\"true\" MoveOutputContentToRoot=\"false\" ReplaceReservedCharacters=\"true\" MakeFileLowerCase=\"false\" UseCustomTopicFileExtension=\"false\" PreventExternalUrls=\"false\" EnableResponsiveOutput=\"true\" IncludeGlossarySearchResults=\"true\" ResultsPerPage=\"20\" xml:lang=\"en-us\" LanguageName=\"English\" SearchEngine=\"MadCapSearch\" IncludeCSHRuntime=\"true\" DebugMode=\"false\" ShowMadCapBacklink=\"true\">';
+xmlHelpSystemData += '    <CatapultSkin Version=\"3\" SkinType=\"WebHelp2\" ComponentType=\"MasterPage\" TemplateName=\"Fluid\" Comment=\"HTML5 Side Navigation skin\" EnableResponsiveOutput=\"True\" AutoSyncTOC=\"true\" conditions=\"Default.PrintOnly,Default.Web\" Name=\"NewSkin1\" SkinID=\"NewSkin1\" SkinClass=\"_Skins_NewSkin1\" HideNavOnStartup=\"False\" LogoUrl=\"\">';
+xmlHelpSystemData += '        <WebHelpOptions NavigationPanePosition=\"Right\" OffCanvasMenuStyle=\"Accordion\" MainMenuPosition=\"Left\" EnableSticky=\"All\" />';
+xmlHelpSystemData += '    </CatapultSkin>';
+xmlHelpSystemData += '</WebHelpSystem>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('HelpSystem', xmlHelpSystemData);

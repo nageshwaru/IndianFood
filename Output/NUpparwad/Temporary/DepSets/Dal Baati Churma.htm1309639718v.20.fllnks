@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma.png" />
+    <Link
+      Url="https://hebbarskitchen.com/how-to-make-butter-recipe-ghee-recipe/" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_ghee.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_mixflour.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_dough.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_xmark.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_appepanmaking.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_flipandcook.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_baaticompleted.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_batiready.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_coarsepowder.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_goldenroast.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_churmaready.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_dalwater.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_addsalt.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_coriander.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurmareadytoserve.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma.png" />
+    <Link
+      Url="https://hebbarskitchen.com/how-to-make-butter-recipe-ghee-recipe/" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_ghee.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_mixflour.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_dough.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_xmark.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_appepanmaking.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_flipandcook.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_baaticompleted.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_batiready.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_coarsepowder.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_goldenroast.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_churmaready.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_dalwater.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_addsalt.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurma_coriander.png" />
+    <Link
+      Url="Content/Resources/Images/dalbaatichurmareadytoserve.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
